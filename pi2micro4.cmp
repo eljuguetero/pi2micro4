@@ -1,0 +1,31 @@
+Cmp-Mod V01 Created by Cvpcb (2014-04-12 BZR 4800)-product   date = mar 26 ago 2014 22:02:07 COT
+
+BeginCmp
+TimeStamp = /53FD4A19;
+Reference = M1;
+ValeurCmp = microduino_base;
+IdModule  = microduino_base;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FD4C5F;
+Reference = M2;
+ValeurCmp = microduino_base;
+IdModule  = microduino_base;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FD4C0E;
+Reference = M3;
+ValeurCmp = microduino_base;
+IdModule  = microduino_base;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FD4CB0;
+Reference = M4;
+ValeurCmp = microduino_base;
+IdModule  = microduino_base;
+EndCmp
+
+EndListe
