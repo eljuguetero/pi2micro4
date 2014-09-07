@@ -1,5 +1,5 @@
 M48
-;DRILL file {pcbnew (2014-04-12 BZR 4800)-product} date dom 07 sep 2014 17:12:33 COT
+;DRILL file {pcbnew (2014-04-12 BZR 4800)-product} date dom 07 sep 2014 17:19:29 COT
 ;FORMAT={-:-/ absolute / inch / decimal}
 FMAT,2
 INCH,TZ
@@ -12,7 +12,7 @@ G90
 G05
 M72
 T1
-X4.09Y-5.755
+X4.025Y-5.65
 X4.195Y-5.415
 X4.4Y-5.415
 X4.4124Y-4.4121
