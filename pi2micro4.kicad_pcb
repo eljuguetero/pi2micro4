@@ -3,7 +3,7 @@
   (general
     (links 168)
     (no_connects 0)
-    (area 100.279999 81.864999 158.165001 151.815001)
+    (area 95.735073 75.89 169.925 158.910001)
     (thickness 1.6)
     (drawings 21)
     (tracks 1952)
@@ -327,11 +327,11 @@
     )
   )
 
-  (module SMD-0603 (layer B.Cu) (tedit 540CB04D) (tstamp 5400E35B)
+  (module SMD-0603 (layer B.Cu) (tedit 54147BF2) (tstamp 5400E35B)
     (at 146.5364 83.5462)
     (path /5400EB70)
     (attr smd)
-    (fp_text reference C4 (at -0.7072 1.14 90) (layer B.SilkS)
+    (fp_text reference C4 (at 2.0536 0.2738 180) (layer B.SilkS)
       (effects (font (size 0.508 0.4572) (thickness 0.1143)) (justify mirror))
     )
     (fp_text value 100nF (at 0 0) (layer B.SilkS) hide
@@ -352,11 +352,11 @@
     )
   )
 
-  (module SMD-0603 (layer F.Cu) (tedit 540CAEE3) (tstamp 5400E365)
+  (module SMD-0603 (layer F.Cu) (tedit 54147BCA) (tstamp 5400E365)
     (at 107.95 144.526 270)
     (path /5400DF6D)
     (attr smd)
-    (fp_text reference R1 (at -0.762 1.27 270) (layer F.SilkS)
+    (fp_text reference R1 (at -1.651 0 360) (layer F.SilkS)
       (effects (font (size 0.508 0.4572) (thickness 0.1143)))
     )
     (fp_text value R (at 0 0 270) (layer F.SilkS) hide
@@ -377,11 +377,11 @@
     )
   )
 
-  (module SMD-0603 (layer F.Cu) (tedit 54146679) (tstamp 5400E36F)
+  (module SMD-0603 (layer F.Cu) (tedit 54147BCF) (tstamp 5400E36F)
     (at 103.632 144.526 270)
     (path /5400DF59)
     (attr smd)
-    (fp_text reference R2 (at -1.524 0 360) (layer F.SilkS)
+    (fp_text reference R2 (at -1.651 -0.508 360) (layer F.SilkS)
       (effects (font (size 0.508 0.4572) (thickness 0.1143)))
     )
     (fp_text value R (at 0 0 270) (layer F.SilkS) hide
@@ -511,11 +511,11 @@
     )
   )
 
-  (module SMD-0603 (layer B.Cu) (tedit 540CB06A) (tstamp 5400F7EA)
+  (module SMD-0603 (layer B.Cu) (tedit 54147BE7) (tstamp 5400F7EA)
     (at 147.2816 95.71 270)
     (path /5400F69E)
     (attr smd)
-    (fp_text reference C6 (at 1.524 0 360) (layer B.SilkS)
+    (fp_text reference C6 (at -1.73 -0.0384 360) (layer B.SilkS)
       (effects (font (size 0.508 0.4572) (thickness 0.1143)) (justify mirror))
     )
     (fp_text value 100nF (at 0 0 270) (layer B.SilkS) hide
@@ -779,11 +779,11 @@
       (net 27 GND))
   )
 
-  (module SMD-0603 (layer B.Cu) (tedit 540C99FF) (tstamp 540CA4CE)
+  (module SMD-0603 (layer B.Cu) (tedit 54147BDC) (tstamp 540CA4CE)
     (at 152.4 142.875 180)
     (path /540C9A87)
     (attr smd)
-    (fp_text reference R7 (at 0 0 180) (layer B.SilkS)
+    (fp_text reference R7 (at 0 -1.27 180) (layer B.SilkS)
       (effects (font (size 0.508 0.4572) (thickness 0.1143)) (justify mirror))
     )
     (fp_text value 1k (at 0 0 180) (layer B.SilkS) hide
